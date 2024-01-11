@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* 
+Project:
+Developer: Katherine L. Hambley, www.khambleyweb.com
+Date Created:
+Last modifed: 
+
+*/
+
+/* Fonts 
+Montserrat - Free from google.com/fonts
+
+*/
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+}
+img.img-width {
+	/*width: 15%;*/
+	}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (max-width : 1024px) {
+/* Styles */
+img.img-width {
+	width: 75%;
+	}
+}
+
